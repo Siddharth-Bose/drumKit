@@ -17,31 +17,31 @@ body {
   }
   
   .w {
-    background-image: url('/images/crash.png');
+    background-image: url('https://siddharth-bose.github.io/drumKit/images/crash.png');
   }
   
   .a {
-    background-image: url('images/kick.png');
+    background-image: url('https://siddharth-bose.github.io/drumKit/images/kick.png');
   }
   
   .s {
-    background-image: url('images/snare.png');
+    background-image: url('https://siddharth-bose.github.io/drumKit/images/snare.png');
   }
   
   .d {
-    background-image: url('images/tom1.png');
+    background-image: url('https://siddharth-bose.github.io/drumKit/images/tom1.png');
   }
   
   .j {
-    background-image: url('images/tom2.png');
+    background-image: url('https://siddharth-bose.github.io/drumKit/images/tom2.png');
   }
   
   .k {
-    background-image: url('images/tom3.png');
+    background-image: url('https://siddharth-bose.github.io/drumKit/images/tom3.png');
   }
   
   .l {
-    background-image: url('images/tom4.png');
+    background-image: url('https://siddharth-bose.github.io/drumKit/images/tom4.png');
   }
   
   .set {
